@@ -12,7 +12,8 @@ Fonts being used in Assignment 2:
 - Arial
 - Helvetica
 - sans-serif
-
+- Geneva
+- Verdana
 ## Choosing a new design
 
 A new set of well-paired fonts for the website: 
